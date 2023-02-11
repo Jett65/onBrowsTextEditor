@@ -25,3 +25,6 @@ For any questions contact me at: jettc505@gmail.com:
 [My GitHub: Jett65](https://github.com/Jett65)
 
 ## Links
+
+[Deployed app](https://on-browser-text-editor.herokuapp.com/)
+[Github](https://github.com/Jett65)
